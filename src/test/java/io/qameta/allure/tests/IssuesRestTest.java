@@ -1,5 +1,6 @@
-package io.qameta.allure;
+package io.qameta.allure.tests;
 
+import io.qameta.allure.*;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Tags;
 import org.junit.jupiter.params.ParameterizedTest;

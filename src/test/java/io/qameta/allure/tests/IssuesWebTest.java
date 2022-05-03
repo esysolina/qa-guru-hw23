@@ -1,5 +1,6 @@
-package io.qameta.allure;
+package io.qameta.allure.tests;
 
+import io.qameta.allure.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
